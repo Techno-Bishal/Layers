@@ -62,7 +62,7 @@ export default function Features() {
                 className="md:col-span-2 lg:col-span-1"
                 >
                     <div className="aspect-video flex items-center justify-center ">
-                          <p className="text-4xl font-extrabold text-white/20 text-center ">We've achieve <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">incredible</span> growth this year</p>
+                          <p className="text-4xl font-extrabold text-white/20 text-center ">We&apos;ve achieve <span className="bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">incredible</span> growth this year</p>
                     </div>
                  </FeatureCard>
 

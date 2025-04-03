@@ -5,7 +5,7 @@ import logoImage from "@/assets/images/logo.svg";
 import { Menu, X } from "lucide-react";
 import Button from "@/components/Button";
 import Link from "next/link";
-import { AnimatePresence, motion } from "framer-motion";
+
 
 const navLinks = [
   { label: "Home", href: "#" },
